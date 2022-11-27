@@ -10,7 +10,6 @@ header a {
 
 }
 
-/* DO NOT TOUCH THIS FILE!!!  */
 .square {
     width: 100px;
     height: 100px;
@@ -24,8 +23,6 @@ header a {
     width: 500px;
     flex-wrap: wrap;
 }
-
-/* DO NOT TOUCH THIS FILE!!!  */
 
 .square:nth-of-type(2n+1) {
     background-color: red
