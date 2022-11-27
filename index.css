@@ -1,6 +1,7 @@
 body {
     background-color:#fefae0 ;
     padding: 80px 100px;
+    font-style: "Philosophor";
 }
 
 #root {
@@ -16,6 +17,11 @@ body {
 .two a {
     color: red;
 }
+
 .three a {
+    color: red;
+}
+
+.fourth a {
     color: red;
 }
