@@ -1,0 +1,21 @@
+body {
+    background-color:#fefae0 ;
+    padding: 80px 100px;
+}
+
+#root {
+    font: size 13px;
+    font-family: 'Philosopher', sans-serif;
+    margin-bottom: 15px;
+}
+
+.one a{
+    color: red;
+}
+
+.two a {
+    color: red;
+}
+.three a {
+    color: red;
+}
