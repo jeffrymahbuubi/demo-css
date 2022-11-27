@@ -1,45 +1,43 @@
 header a {
-    font-size: 30px;
-    color: teal;
+  font-size: 30px;
+  color: teal;
 }
 
-
-#dislikes a {
-    color: red;
-    font-weight: bold;
-
+.dislikes a {
+  color: red;
+  font-weight: bold;
 }
 
 .square {
-    width: 100px;
-    height: 100px;
-    box-sizing: border-box;
-    border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  border: 1px solid black;
 }
 
-#board {
-    display: flex;
-    margin: 0 auto;
-    width: 500px;
-    flex-wrap: wrap;
+.board {
+  display: flex;
+  margin: 0 auto;
+  width: 500px;
+  flex-wrap: wrap;
 }
 
-.square:nth-of-type(2n+1) {
-    background-color: red
+.square:nth-of-type(2n + 1) {
+  background-color: red;
 }
 
 .square:nth-of-type(2n) {
-    background-color: black
+  background-color: black;
 }
 
 .about .heading {
-    color: orange;
+  color: orange;
 }
 
 .about h2.heading {
-    color: pink;
+  color: pink;
 }
 
 section.about .heading {
-    color: yellow;
+  color: yellow;
 }

@@ -1,27 +1,16 @@
 body {
-    background-color:#fefae0 ;
-    padding: 80px 100px;
-    font-style: "Philosophor";
+  background-color: #fefae0;
+  padding: 80px 100px;
+  font-family: "Philosophor", sans-serif;
 }
 
-#root {
-    font: size 13px;
-    font-family: 'Philosopher', sans-serif;
-    margin-bottom: 15px;
+.root {
+  font: size 13px;
+  font-family: "Philosopher", sans-serif;
+  margin-bottom: 15px;
 }
 
-.one a{
-    color: red;
-}
-
-.two a {
-    color: red;
-}
-
-.three a {
-    color: red;
-}
-
-.fourth a {
-    color: red;
+.navigation-items a {
+  color: red;
+  text-decoration: none;
 }
